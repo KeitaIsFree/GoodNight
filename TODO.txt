@@ -1,0 +1,6 @@
+#TODO
+
+wakeup sound played through alarm volume
+wakeup sound source selection (from pre-loaded or from device
+gush (via visualizer
+alarm input no input error handling
